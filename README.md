@@ -1,4 +1,4 @@
-# -Inflation-Forecasting-in-India-using-CPI-Data
+# Inflation-Forecasting-in-India-using-CPI-Data
 Inflation is one of the most important macroeconomic indicators, directly affecting purchasing power, savings, investment decisions, and overall economic stability. In a developing economy like India, accurate measurement and forecasting of inflation are essential for effective monetary policy and economic planning. 
 This project focuses on analyzing and forecasting inflation in India using Consumer Price Index (CPI – All Items) data. Monthly CPI data from 2015 to 2025, obtained from the Reserve Bank of India (DBIE), are analyzed using statistical and time-series techniques to understand inflation behavior, identify long-term trends, and generate reliable forecasts.
 
